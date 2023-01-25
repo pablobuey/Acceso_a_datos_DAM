@@ -1,0 +1,2 @@
+Genera y lee el siguiente JSON
+
